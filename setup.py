@@ -8,4 +8,6 @@ setup(name = "aravis",
       packages=["aravis"],
       license = "GNU General Public License",
       zip_safe = True,
+      install_requires=["numpy>=1.5.0",
+                       ]
       )
