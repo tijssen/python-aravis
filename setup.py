@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name = "aravis", 
-      version = "0.0.0"
+      version = "0.0.0",
       description = "pythonic interface to auto-generated aravis python bindings",
       author = "Olivier Roulet-Dubonnet",
       url = 'https://github.com/oroulet/python-aravis',
